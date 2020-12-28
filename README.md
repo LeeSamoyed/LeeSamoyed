@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 Deep Learning
 
-| Object Detection | Image Classification | NLP |
-|  ----  | ----  |
-|   |  | EER_NER |
-|   |  |  |
+| Computer Vision | NLP | notes |
+|  ----  | ----  | ---- |
+|   | EER_NER | Deep Learning |
+|   |  | Machine Learning |
