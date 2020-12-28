@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+Welcome to my github
+
+✨ My 
+
 <!--
 **LeeSamoyed/LeeSamoyed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
