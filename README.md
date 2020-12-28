@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-|  Deep Learning   | Object   |
+Deep Learning
+
+| Object Detection | Image Classification | NLP |
 |  ----  | ----  |
-|   |  |
-|   |  |
+|   |  | EER_NER |
+|   |  |  |
