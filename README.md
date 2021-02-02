@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 | Computer Vision | NLP | Learning notes |
 |  ----  | ----  | ---- |
-|   | [EER_NER](https://github.com/LeeSamoyed/NLP_EER_NER) | [Deep Learning](https://github.com/LeeSamoyed/python_deep_learning_notes) |
+|   | [EER_NER](https://github.com/LeeSamoyed/NLP_EER_NER) | [Deep Learning](https://github.com/LeeSamoyed/deep_learning) |
 |   |                                                      | [Machine Learning](https://github.com/LeeSamoyed/python_machine_learning_notes) |
 |   |                                                      | [Crawler](https://github.com/LeeSamoyed/python_crawler_learning_notes) |
 |   |                                                      | [Regular_Expression](https://github.com/LeeSamoyed/python_regular_expression_learning_notes) |
