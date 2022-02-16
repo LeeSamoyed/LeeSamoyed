@@ -1,5 +1,3 @@
-### 👋
-
 Welcome to my GitHub
 
 ✨ My theory learning notes web address:  [LeeSamoyed(YuQue)](https://www.yuque.com/leesamoyed)
