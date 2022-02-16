@@ -24,9 +24,9 @@ Here are some ideas to get you started:
 
 | Computer Vision | NLP | Learning notes |
 |  ----  | ----  | ---- |
-|   | [EER_NER](https://github.com/LeeSamoyed/NLP_EER_NER) | [Deep Learning](https://github.com/LeeSamoyed/deepLearning) |
-|   |                                                      | [Machine Learning](https://github.com/LeeSamoyed/python_machine_learning_notes) |
-|   |                                                      | [Crawler](https://github.com/LeeSamoyed/python_crawler_learning_notes) |
-|   |                                                      | [Regular Expression](https://github.com/LeeSamoyed/python_regular_expression_learning_notes) |
-|   |                                                      | [Network](https://github.com/LeeSamoyed/python_network_learning_notes/settings) |
-|   |                                                      | [Python](https://github.com/LeeSamoyed/python_basis_learning_notes) |
+|   | [EER_NER](https://github.com/LeeSamoyed/NLP_EER_NER) | [Deep Learning](https://github.com/LeeSamoyed/DeepLearning) |
+|   |                                                      | [Machine Learning](https://github.com/LeeSamoyed/PythonMachineLearningNotes) |
+|   |                                                      | [Crawler](https://github.com/LeeSamoyed/PythonCrawlerLearningNotes) |
+|   |                                                      | [Regular Expression](https://github.com/LeeSamoyed/PythonRegularExpressionLearningNotes) |
+|   |                                                      | [Network](https://github.com/LeeSamoyed/PythonNetworkLearningNotes) |
+|   |                                                      | [Python](https://github.com/LeeSamoyed/PythonBasisLearningNotes) |
