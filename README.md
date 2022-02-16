@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+😄 Public proj references to many public source codes. If it bothers you. Please contact me.
+
 
 #### Github main content link:
 
