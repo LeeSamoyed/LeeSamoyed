@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 
 ✨ 菜鸟展示台
 > <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=leesamoyed&show_icons=true&line_height=27&include_all_commits=true" alt="菜鸟Star展示" />
+
 > <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=leesamoyed&show_icons=true&line_height=27&include_all_commits=true" alt="菜鸟所用语言展示" />
 > 
 ✨ Github主要链接:
