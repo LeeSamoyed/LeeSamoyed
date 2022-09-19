@@ -1,6 +1,6 @@
 Welcome to my GitHub
 
-✨ My theory learning notes web address:  [LeeSamoyed(YuQue)](https://www.yuque.com/leesamoyed)
+✨ 我的日常学习笔记:  [LeeSamoyed(YuQue)](https://www.yuque.com/leesamoyed)
 
 <!--
 **LeeSamoyed/LeeSamoyed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-😄 Public proj references to many public source codes. If it bothers you. Please contact me.
 
+> ![菜鸟展示台](https://github-readme-stats.vercel.app/api?username=mopig&show_icons=true&theme=dracula&hide=stars,issues)
 
-#### Github main content link:
+> Github主要链接:
 
 | Computer Vision | NLP | Learning notes |
 |  ----  | ----  | ---- |
