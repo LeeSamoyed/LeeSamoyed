@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 > ![菜鸟展示台](https://github-readme-stats.vercel.app/api?username=mopig&show_icons=true&theme=dracula&hide=stars,issues)
 
-> Github主要链接:
+✨ Github主要链接:
 
 | Computer Vision | NLP | Learning notes |
 |  ----  | ----  | ---- |
