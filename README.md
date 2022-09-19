@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 
 ✨ 菜鸟展示台
-> <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=filiptronicek&show_icons=true&line_height=27&include_all_commits=true" alt="菜鸟展示台" />
+> <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=leesamoyed&show_icons=true&line_height=27&include_all_commits=true" alt="菜鸟展示台" />
 
 ✨ Github主要链接:
 
