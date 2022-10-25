@@ -3,7 +3,7 @@ Welcome to my GitHub
 ✨ 我的日常学习笔记:  [LeeSamoyed(YuQue)](https://www.yuque.com/leesamoyed)
 
 ✨ Github毁灭吧
-><img width="100%" alt="game gif" src="https://qnycdn.volcanoblog.cn/github-contribution-grid-snake.svg"/>
+><img width="100%" alt="game gif" src="https://raw.githubusercontent.com/leesamoyed/leesamoyed/main/assets/github-contribution-grid-snake.svg"/>
 
 <!--
 **LeeSamoyed/LeeSamoyed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
