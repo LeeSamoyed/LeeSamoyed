@@ -1,6 +1,8 @@
 Welcome to my GitHub
 
-✨ 我的日常学习笔记:  [LeeSamoyed(YuQue)](https://www.yuque.com/leesamoyed)
+✨ 个人Wiki主站:  [LeeSamoyed(Wiki)](https://leesamoyed.github.io/)
+
+✨ 日常学习笔记:  [LeeSamoyed(YuQue)](https://www.yuque.com/leesamoyed)
 
 ✨ Github毁灭吧
 <!--
