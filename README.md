@@ -2,8 +2,6 @@ Welcome to my GitHub
 
 ✨ 个人Wiki主站:  [LeeSamoyed(Wiki)](https://leesamoyed.github.io/)
 
-✨ 日常学习笔记:  [LeeSamoyed(YuQue)](https://www.yuque.com/leesamoyed)
-
 ✨ Github毁灭吧
 <!--
 ><img width="100%" alt="game gif" src="https://raw.githubusercontent.com/leesamoyed/leesamoyed/main/assets/github-contribution-grid-snake.svg"/>
@@ -35,6 +33,3 @@ Here are some ideas to get you started:
 >|   | 能写出一点 |  |
 >|   | 原创的东西 |  |
 >|   | 出来      |  |
-
-✨ 我被围观了？:
-><img src="https://profile-counter.glitch.me/Leesamoyed/count.svg" />
