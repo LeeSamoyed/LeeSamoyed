@@ -1,7 +1,5 @@
 Welcome to my GitHub
 
-✨ 个人Wiki主站:  [LeeSamoyed(Wiki)](https://leesamoyed.github.io/)
-
 ✨ Github毁灭吧
 <!--
 ><img width="100%" alt="game gif" src="https://raw.githubusercontent.com/leesamoyed/leesamoyed/main/assets/github-contribution-grid-snake.svg"/>
